@@ -13,14 +13,14 @@
     <header>
         
         <div class="menu-content">
-            <img class="logoimg" src="../public/img/logo.png" alt="">
+        <img class="logoimg" src="../../public/img/logo.png" alt="">
             <nav class="headermenu">
-            <ul class="list-itens">
+                <ul class="list-itens">
                     <li><a href="../views/index.html">Home</a></li>
                     <li><a href="../views/plano.html">Planos</a></li>
                     <li><a href="../views/imc.html">Calcule seu IMC</a></li>
                     <li><a href="../views/cadastro.html">Cadastro</a></li>
-                    <li><a href="../views/contato.html"><img class="socialmedia" src="../public/img/redes-sociais.png" alt=""></a></li>
+                    <li><a href="../views/contato.html"><img class="socialmedia" src="../../public/img/redes-sociais.png" alt=""></a></li>
                     <li><a href="../views/sobrenos.html">Sobre Nós</a></li>
                 </ul>
             
